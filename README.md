@@ -18,16 +18,23 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+```bash
 ### `Deploy`
 
 - Login to netlify
-- Connet with your github
+- Conncet with your github
 - choose your repository
 - Boom.. netlify will deploy your project
+```
 
+```bash
 ## link
 
 ['']
+```
 
+```bash
 ## Kritik Web ELemes.id
-Because I'm a front end developer too, i think the website is in the best version now. I appraciate the man behind the website. Thanks 
+Because I am a front end developer too, i think the website is in the best version now. I appraciate the man behind the website. Thanks 
+```
